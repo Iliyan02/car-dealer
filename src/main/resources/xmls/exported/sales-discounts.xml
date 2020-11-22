@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sales>
+    <sale>
+        <car model="Astra" travelled-distance="9223372036854775807"/>
+        <customer-element>Audrea Cardinal</customer-element>
+        <discount>0.05</discount>
+        <price>559.47</price>
+        <price-with-discount>531.4965</price-with-discount>
+    </sale>
+    <sale>
+        <car model="500L" travelled-distance="21474847"/>
+        <customer-element>Jimmy Grossi</customer-element>
+        <discount>0.1</discount>
+        <price>212.52</price>
+        <price-with-discount>191.268</price-with-discount>
+    </sale>
+    <sale>
+        <car model="Astra" travelled-distance="9223372036854775807"/>
+        <customer-element>Zada Attwood</customer-element>
+        <discount>0.3</discount>
+        <price>559.47</price>
+        <price-with-discount>391.629</price-with-discount>
+    </sale>
+</sales>
